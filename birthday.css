@@ -5,6 +5,7 @@
 }
 
 body {
+  background-image: url(./images/background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -19,6 +20,8 @@ body {
   margin: 0;
   overflow: hidden;
 }
+
+
 
 /* Add a dark overlay */
 body::after {
